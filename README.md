@@ -1,5 +1,11 @@
 This project needs a web3 provider and it assumes the user running the app has a web3 extension installed in the browser such as [Metamask](https://metamask.io/).
 
+## Setup
+
+You should have node installed in your machine, preferably LTS version and run:
+
+### `yarn`
+
 ## Available Scripts
 
 In the project directory, you can run:
